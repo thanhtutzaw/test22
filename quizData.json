@@ -1,0 +1,5000 @@
+ [
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "When the phone rings do you",
+    "questionNo": 1,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "hurry to get to it first",
+        "value": "a"
+      },
+      "b": {
+        "text": "hope someone else will answer",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more",
+    "questionNo": 2,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "observant than introspective",
+        "value": "a"
+      },
+      "b": {
+        "text": "introspective than observant",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is it worse to",
+    "questionNo": 3,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "have your head in the clouds",
+        "value": "a"
+      },
+      "b": {
+        "text": "be in a rut",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "With people are you usually more",
+    "questionNo": 4,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "firm than gentle",
+        "value": "a"
+      },
+      "b": {
+        "text": "gentle than firm",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more comfortable in making",
+    "questionNo": 5,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "judgments based on data",
+        "value": "a"
+      },
+      "b": {
+        "text": "judgments based on your feelings,",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is clutter in the workplace something you",
+    "questionNo": 6,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "take time to straighten up",
+        "value": "a"
+      },
+      "b": {
+        "text": "tolerate pretty well",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is it your way to",
+    "questionNo": 7,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "make up your mind quickly",
+        "value": "a"
+      },
+      "b": {
+        "text": "pick and choose at some length",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Waiting in line, do you often",
+    "questionNo": 8,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "chat with others",
+        "value": "a"
+      },
+      "b": {
+        "text": "stick to business",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more",
+    "questionNo": 9,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "sensible than ideational",
+        "value": "a"
+      },
+      "b": {
+        "text": "ideational than sensible",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more interested in",
+    "questionNo": 10,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "what is actual",
+        "value": "a"
+      },
+      "b": {
+        "text": "what is possible",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "In making up your mind are you more likely to go by",
+    "questionNo": 11,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "objective data",
+        "value": "a"
+      },
+      "b": {
+        "text": "how you feel",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "In sizing up others do you tend to be",
+    "questionNo": 12,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "objective and impersonal",
+        "value": "a"
+      },
+      "b": {
+        "text": "friendly and personal",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you prefer contracts to be",
+    "questionNo": 13,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "signed, sealed, and delivered",
+        "value": "a"
+      },
+      "b": {
+        "text": "settled on a handshake",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more satisfied having",
+    "questionNo": 14,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "a finished product",
+        "value": "a"
+      },
+      "b": {
+        "text": "work in progress",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "At a party, do you like to",
+    "questionNo": 15,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "interact with many people, even strangers",
+        "value": "a"
+      },
+      "b": {
+        "text": "interact with a few friends",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you tend to be more",
+    "questionNo": 16,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "factual than speculative",
+        "value": "a"
+      },
+      "b": {
+        "text": "speculative than factual",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you like writers who",
+    "questionNo": 17,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "say what they mean",
+        "value": "a"
+      },
+      "b": {
+        "text": "use metaphors and symbolism",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Which appeals to you more",
+    "questionNo": 18,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "consistency of thought",
+        "value": "a"
+      },
+      "b": {
+        "text": "harmonious relationships",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "If you must disappoint someone are you usually",
+    "questionNo": 19,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "straight and to the point",
+        "value": "a"
+      },
+      "b": {
+        "text": "warm and sympathetic",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "On the job do you want your activities",
+    "questionNo": 20,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "scheduled",
+        "value": "a"
+      },
+      "b": {
+        "text": "unscheduled",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you more often prefer",
+    "questionNo": 21,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "final, unalterable statements",
+        "value": "a"
+      },
+      "b": {
+        "text": "tentative, preliminary statements",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Does interacting with strangers",
+    "questionNo": 22,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "energize you",
+        "value": "a"
+      },
+      "b": {
+        "text": "tax your reserves",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Facts",
+    "questionNo": 23,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "speak for themselves",
+        "value": "a"
+      },
+      "b": {
+        "text": "illustrate principles",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you find visionaries and theorists",
+    "questionNo": 24,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "somewhat annoying",
+        "value": "a"
+      },
+      "b": {
+        "text": "rather fascinating",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "In a heated discussion, do you",
+    "questionNo": 25,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "stick to your guns",
+        "value": "a"
+      },
+      "b": {
+        "text": "look for common ground",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is it better to be",
+    "questionNo": 26,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "just",
+        "value": "a"
+      },
+      "b": {
+        "text": "merciful",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "At work, is it more natural for you to",
+    "questionNo": 27,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "point out mistakes",
+        "value": "a"
+      },
+      "b": {
+        "text": "try to please others",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more comfortable",
+    "questionNo": 28,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "after a decision",
+        "value": "a"
+      },
+      "b": {
+        "text": "before a decision",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you tend to",
+    "questionNo": 29,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "say right out what's on your mind",
+        "value": "a"
+      },
+      "b": {
+        "text": "keep your ears open",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Common sense is",
+    "questionNo": 30,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "usually reliable",
+        "value": "a"
+      },
+      "b": {
+        "text": "frequently questionable",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Children often do not",
+    "questionNo": 31,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "make themselves useful enough",
+        "value": "a"
+      },
+      "b": {
+        "text": "exercise their fantasy enough",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "When in charge of others do you tend to be",
+    "questionNo": 32,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "firm and unbending",
+        "value": "a"
+      },
+      "b": {
+        "text": "forgiving and lenient",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more often",
+    "questionNo": 33,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "a cool-headed person",
+        "value": "a"
+      },
+      "b": {
+        "text": "a warm-hearted person",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you prone to",
+    "questionNo": 34,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "nailing things down",
+        "value": "a"
+      },
+      "b": {
+        "text": "exploring the possibilities",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "In most situations are you more",
+    "questionNo": 35,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "deliberate than spontaneous",
+        "value": "a"
+      },
+      "b": {
+        "text": "spontaneous than deliberate",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you think of yourself as",
+    "questionNo": 36,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "an outgoing person",
+        "value": "a"
+      },
+      "b": {
+        "text": "a private person",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more frequently",
+    "questionNo": 37,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "a practical sort of person",
+        "value": "a"
+      },
+      "b": {
+        "text": "a imaginative sort of person",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you speak more in",
+    "questionNo": 38,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "particulars than generalities",
+        "value": "a"
+      },
+      "b": {
+        "text": "generalities than particulars",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Which is more of a compliment",
+    "questionNo": 39,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "There's a logical person",
+        "value": "a"
+      },
+      "b": {
+        "text": "There's a sentimental person",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Which rules you more",
+    "questionNo": 40,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "your thoughts",
+        "value": "a"
+      },
+      "b": {
+        "text": "your feelings",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "When finishing a job, do you like to",
+    "questionNo": 41,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "tie up all the loose ends",
+        "value": "a"
+      },
+      "b": {
+        "text": "move on to something new",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you prefer to work",
+    "questionNo": 42,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "to deadlines",
+        "value": "a"
+      },
+      "b": {
+        "text": "just whenever",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you the kind of person who",
+    "questionNo": 43,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "is rather talkative",
+        "value": "a"
+      },
+      "b": {
+        "text": "doesnâ€™t miss much",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you inclined to take what is said",
+    "questionNo": 44,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "more literally",
+        "value": "a"
+      },
+      "b": {
+        "text": "more figuratively",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you more often see",
+    "questionNo": 45,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "what's right in front of you",
+        "value": "a"
+      },
+      "b": {
+        "text": "what can only be imagined",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is it worse to be",
+    "questionNo": 46,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "a softy",
+        "value": "a"
+      },
+      "b": {
+        "text": "hard-nosed",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "In trying circumstances are you sometimes",
+    "questionNo": 47,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "too unsympathetic",
+        "value": "a"
+      },
+      "b": {
+        "text": "too sympathetic",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you tend to choose",
+    "questionNo": 48,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "rather carefully",
+        "value": "a"
+      },
+      "b": {
+        "text": "somewhat impulsively",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you inclined to be more",
+    "questionNo": 49,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "hurried than leisurely",
+        "value": "a"
+      },
+      "b": {
+        "text": "leisurely than hurried",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "At work do you tend to",
+    "questionNo": 50,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "be sociable with your colleagues",
+        "value": "a"
+      },
+      "b": {
+        "text": "keep more to yourself",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more likely to trust",
+    "questionNo": 51,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "your experiences",
+        "value": "a"
+      },
+      "b": {
+        "text": "your conceptions",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more inclined to feel",
+    "questionNo": 52,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "down to earth",
+        "value": "a"
+      },
+      "b": {
+        "text": "somewhat removed",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you think of yourself as a",
+    "questionNo": 53,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "tough-minded person",
+        "value": "a"
+      },
+      "b": {
+        "text": "tender-hearted person",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you value in yourself more that you are",
+    "questionNo": 54,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "reasonable",
+        "value": "a"
+      },
+      "b": {
+        "text": "devoted",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you usually want things",
+    "questionNo": 55,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "settled and decided",
+        "value": "a"
+      },
+      "b": {
+        "text": "just penciled in",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Would you say you are more",
+    "questionNo": 56,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "serious and determined",
+        "value": "a"
+      },
+      "b": {
+        "text": "easy going",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you consider yourself",
+    "questionNo": 57,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "a good conversationalist",
+        "value": "a"
+      },
+      "b": {
+        "text": "a good listener",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you prize in yourself",
+    "questionNo": 58,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "a strong hold on reality",
+        "value": "a"
+      },
+      "b": {
+        "text": "a vivid imagination",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you drawn more to",
+    "questionNo": 59,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "fundamentals",
+        "value": "a"
+      },
+      "b": {
+        "text": "overtones",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Which seems the greater fault",
+    "questionNo": 60,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "to be too compassionate",
+        "value": "a"
+      },
+      "b": {
+        "text": "to be too dispassionate",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you swayed more by",
+    "questionNo": 61,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "convincing evidence",
+        "value": "a"
+      },
+      "b": {
+        "text": "a touching appeal",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you feel better about",
+    "questionNo": 62,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "coming to closure",
+        "value": "a"
+      },
+      "b": {
+        "text": "keeping your options open",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is it preferable mostly to",
+    "questionNo": 63,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "make sure things are arranged",
+        "value": "a"
+      },
+      "b": {
+        "text": "just let things happen naturally",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you inclined to be",
+    "questionNo": 64,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "easy to approach",
+        "value": "a"
+      },
+      "b": {
+        "text": "somewhat reserved",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "In stories do you prefer",
+    "questionNo": 65,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "action and adventure",
+        "value": "a"
+      },
+      "b": {
+        "text": "fantasy and heroism",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Is it easier for you to",
+    "questionNo": 66,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "put others to good use",
+        "value": "a"
+      },
+      "b": {
+        "text": "identify with others",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Which do you wish more for yourself",
+    "questionNo": 67,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "strength of will",
+        "value": "a"
+      },
+      "b": {
+        "text": "strength of emotion",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you see yourself as basically",
+    "questionNo": 68,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "thick-skinned",
+        "value": "a"
+      },
+      "b": {
+        "text": "thin-skinned",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Do you tend to notice",
+    "questionNo": 69,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "disorderliness",
+        "value": "a"
+      },
+      "b": {
+        "text": "opportunities for change",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Are you more",
+    "questionNo": 70,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "routinized than whimsical",
+        "value": "a"
+      },
+      "b": {
+        "text": "whimsical than routinized",
+        "value": "b"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 71,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I sympathize with others' feelings",
+        "value": "0"
+      },
+      "b": {
+        "text": "I have excellent ideas",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am always prepared",
+        "value": "3"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 72,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I leave my belongings around",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I do not have a good imagination",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am not interested in abstract ideas",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 73,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I have a soft heart",
+        "value": "0"
+      },
+      "b": {
+        "text": "I pay attention to details",
+        "value": "3"
+      },
+      "c": {
+        "text": "I have a vivid imagination",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 74,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I make a mess of things",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I don't like to draw attention to myself",
+        "value": "0"
+      },
+      "c": {
+        "text": "I often feel blue",
+        "value": "-1"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 75,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Get chores done right away",
+        "value": "3"
+      },
+      "b": {
+        "text": "I feel comfortable around people",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am quick to understand things",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 76,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Often forget to put things back in their proper place",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I change my mood a lot",
+        "value": "-1"
+      },
+      "c": {
+        "text": "I am not interested in other people's problems",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 77,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Like order",
+        "value": "3"
+      },
+      "b": {
+        "text": "I am the life of the party",
+        "value": "0"
+      },
+      "c": {
+        "text": "I take time out for others",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 78,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Shirk my duties",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I do not have a good imagination",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am quiet around strangers",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 79,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Follow a schedule",
+        "value": "3"
+      },
+      "b": {
+        "text": "I make people feel at ease",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am full of ideas",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 80,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Am exacting in my work",
+        "value": "3"
+      },
+      "b": {
+        "text": "I spend time reflecting on things",
+        "value": "0"
+      },
+      "c": {
+        "text": "I have a soft heart",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 81,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Follow through with my plans",
+        "value": "3"
+      },
+      "b": {
+        "text": "I take time out for others",
+        "value": "0"
+      },
+      "c": {
+        "text": "I talk to a lot of different people at parties",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 82,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Make plans and stick to them",
+        "value": "3"
+      },
+      "b": {
+        "text": "I seldom feel blue",
+        "value": "1"
+      },
+      "c": {
+        "text": "I am quick to understand things",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 83,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Do just enough work to get by",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I get irritated easily",
+        "value": "-1"
+      },
+      "c": {
+        "text": "I am quiet around strangers",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 84,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Leave things unfinished",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I change my mood a lot",
+        "value": "-1"
+      },
+      "c": {
+        "text": "I feel little concern for others",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 85,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I finish what I start",
+        "value": "3"
+      },
+      "b": {
+        "text": "I have a rich vocabulary",
+        "value": "0"
+      },
+      "c": {
+        "text": "I sympathize with others' feelings",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 86,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I don't put my mind on the task at hand",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I don't talk a lot",
+        "value": "0"
+      },
+      "c": {
+        "text": "I use difficult words",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 87,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I don't see things through",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I have frequent mood swings",
+        "value": "-1"
+      },
+      "c": {
+        "text": "I am not interested in abstract ideas",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 88,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Find it difficult to get down to work",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I am easily disturbed",
+        "value": "-1"
+      },
+      "c": {
+        "text": "I feel little concern for others",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 89,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Itâ€™s easy for me to waste my time",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I am not really interested in others",
+        "value": "0"
+      },
+      "c": {
+        "text": "I have difficulty understanding abstract ideas",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 90,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I carry out my plans",
+        "value": "3"
+      },
+      "b": {
+        "text": "I have excellent ideas",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am quick to understand things",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 91,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I do things according to a plan",
+        "value": "3"
+      },
+      "b": {
+        "text": "I take time out for others",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am full of ideas",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 92,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I need a push to get started",
+        "value": "-3"
+      },
+      "b": {
+        "text": "I don't like to draw attention to myself",
+        "value": "0"
+      },
+      "c": {
+        "text": "I worry about things",
+        "value": "-1"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 93,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I complete tasks successfully",
+        "value": "3"
+      },
+      "b": {
+        "text": "I have a vivid imagination",
+        "value": "0"
+      },
+      "c": {
+        "text": "I start conversations",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 94,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Get stressed out easily",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I am not interested in other people's problems",
+        "value": "0"
+      },
+      "c": {
+        "text": "I don't mind being the center of attention",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 95,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Am relaxed most of the time",
+        "value": "1"
+      },
+      "b": {
+        "text": "I don't mind being the center of attention",
+        "value": "0"
+      },
+      "c": {
+        "text": "I have a vivid imagination",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 96,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "I worry about things",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I feel little concern for others",
+        "value": "0"
+      },
+      "c": {
+        "text": "I don't talk a lot",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 97,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Seldom feel blue",
+        "value": "1"
+      },
+      "b": {
+        "text": "I am interested in people",
+        "value": "0"
+      },
+      "c": {
+        "text": "I spend time reflecting on things",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 98,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Am easily disturbed",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I am not interested in other people's problems",
+        "value": "0"
+      },
+      "c": {
+        "text": "I keep in the background",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 99,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Get upset easily",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I insult people",
+        "value": "0"
+      },
+      "c": {
+        "text": "I am not interested in other people's problems",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 100,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Change my mood a lot",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I am quiet around strangers",
+        "value": "0"
+      },
+      "c": {
+        "text": "I spend time reflecting on things",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 101,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Have frequent mood swings",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I am not interested in other people's problems",
+        "value": "0"
+      },
+      "c": {
+        "text": "I don't talk a lot",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 102,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Get irritated easily",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I feel little concern for others",
+        "value": "0"
+      },
+      "c": {
+        "text": "I do not have a good imagination",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "personalityTest",
+    "lang": "en",
+    "questionText": "Choose the statements below that describe you the most",
+    "questionNo": 103,
+    "questionReference": "",
+    "answers": {
+      "a": {
+        "text": "Often feel blue",
+        "value": "-1"
+      },
+      "b": {
+        "text": "I get irritated easily",
+        "value": "-1"
+      },
+      "c": {
+        "text": "I have difficulty understanding abstract ideas",
+        "value": "0"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": ""
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which is the mobile device?",
+    "questionNo": 1,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Smartphones",
+        "value": "1"
+      },
+      "b": {
+        "text": "Tablets",
+        "value": "2"
+      },
+      "c": {
+        "text": "Laptop Computers",
+        "value": "3"
+      },
+      "d": {
+        "text": "Smart Watches",
+        "value": "4"
+      },
+      "e": {
+        "text": "All of the above",
+        "value": 5
+      },
+      "f": {
+        "text": "None of the above",
+        "value": 6
+      }
+    },
+    "correctAnswer": "5"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "If someone responds to your instant message/text by saying, “rofl,” what do they mean?",
+    "questionNo": 2,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "My mom is reading over my shoulder, watch out.",
+        "value": "1"
+      },
+      "b": {
+        "text": "That was really funny.",
+        "value": "2"
+      },
+      "c": {
+        "text": "Really? I don’t believe you.",
+        "value": "3"
+      },
+      "d": {
+        "text": "Hold on a minute, I’ll be right back.",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Who spends more time browsing the internet, teens (age 12 - 17 ) or adults?",
+    "questionNo": 3,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Teens",
+        "value": "1"
+      },
+      "b": {
+        "text": "Adults",
+        "value": "2"
+      },
+      "c": {
+        "text": "Don’t know",
+        "value": "3"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which is the social media application?",
+    "questionNo": 4,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Facebook",
+        "value": "1"
+      },
+      "b": {
+        "text": "Instagram",
+        "value": "2"
+      },
+      "c": {
+        "text": "Viber",
+        "value": "3"
+      },
+      "d": {
+        "text": "Tik Tok",
+        "value": "4"
+      },
+      "e": {
+        "text": "All of the above",
+        "value": 5
+      },
+      "f": {
+        "text": "None of the above",
+        "value": 6
+      }
+    },
+    "correctAnswer": "5"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "A hashtag is a feature of which social media network?",
+    "questionNo": 5,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Google Plus",
+        "value": "1"
+      },
+      "b": {
+        "text": "Facebook",
+        "value": "2"
+      },
+      "c": {
+        "text": "Twitter",
+        "value": "3"
+      },
+      "d": {
+        "text": "All of the above",
+        "value": "4"
+      },
+      "e": {
+        "text": "None of the above",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which one is easier for you to find the data and information? choose one answer.",
+    "questionNo": 6,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Use the internet",
+        "value": "1"
+      },
+      "b": {
+        "text": "Use books and magazines",
+        "value": "2"
+      },
+      "c": {
+        "text": "Use a computer",
+        "value": "3"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which platform has the higher rate of engagement?",
+    "questionNo": 7,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Facebook",
+        "value": "1"
+      },
+      "b": {
+        "text": "Instagram",
+        "value": "2"
+      },
+      "c": {
+        "text": "Email",
+        "value": "3"
+      },
+      "d": {
+        "text": "Microsoft Word",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "You can modify your YouTube account so comments must be approved before they are visible.",
+    "questionNo": 8,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "TRUE",
+        "value": "1"
+      },
+      "b": {
+        "text": "FALSE",
+        "value": "2"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which social networking site does not have an app and/or mobile version of their site?",
+    "questionNo": 9,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Facebook",
+        "value": "1"
+      },
+      "b": {
+        "text": "LinkedIn",
+        "value": "2"
+      },
+      "c": {
+        "text": "Twitter",
+        "value": "3"
+      },
+      "d": {
+        "text": "YouTube",
+        "value": "4"
+      },
+      "e": {
+        "text": "None of the above",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "5"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Most mobile devices include a _____ and _____ for video and music files.",
+    "questionNo": 10,
+    "questionReference": "t1",
+    "answers": {
+      "a": {
+        "text": "Camera, printer",
+        "value": "1"
+      },
+      "b": {
+        "text": "Camera, media player",
+        "value": "2"
+      },
+      "c": {
+        "text": "USB port, media player",
+        "value": "3"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "What is an MMS",
+    "questionNo": 11,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Picture message",
+        "value": "1"
+      },
+      "b": {
+        "text": "A telephone",
+        "value": "2"
+      },
+      "c": {
+        "text": "Man Made Sausage",
+        "value": "3"
+      },
+      "d": {
+        "text": "A mobile phone",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "What does the expression\"2G\" mean when talking about cell phone development?",
+    "questionNo": 12,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Two thousand",
+        "value": "1"
+      },
+      "b": {
+        "text": "Second grade",
+        "value": "2"
+      },
+      "c": {
+        "text": "Two gigabytes",
+        "value": "3"
+      },
+      "d": {
+        "text": "Second Generation",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "We can backup contacts from mobile phones to gmail.",
+    "questionNo": 13,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "TRUE",
+        "value": "1"
+      },
+      "b": {
+        "text": "FALSE",
+        "value": "2"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Is Android Marshmallow a real operating system?",
+    "questionNo": 14,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "TRUE",
+        "value": "1"
+      },
+      "b": {
+        "text": "FALSE",
+        "value": "2"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which of the following screen lock is not supported in smartphones?",
+    "questionNo": 15,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Fingerprint",
+        "value": "1"
+      },
+      "b": {
+        "text": "Face unlock",
+        "value": "2"
+      },
+      "c": {
+        "text": "Eye unlock",
+        "value": "3"
+      },
+      "d": {
+        "text": "Password",
+        "value": "4"
+      },
+      "e": {
+        "text": "All of the above",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "5"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "What is an App?",
+    "questionNo": 16,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Picture",
+        "value": "1"
+      },
+      "b": {
+        "text": "Device",
+        "value": "2"
+      },
+      "c": {
+        "text": "Application",
+        "value": "3"
+      },
+      "d": {
+        "text": "Available Phone Program",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "What can a QR code be linked to?",
+    "questionNo": 17,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "A website",
+        "value": "1"
+      },
+      "b": {
+        "text": "A picture",
+        "value": "2"
+      },
+      "c": {
+        "text": "A social media account",
+        "value": "3"
+      },
+      "d": {
+        "text": "All of these options",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "What do you use to scan a QR code?",
+    "questionNo": 18,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Laptop",
+        "value": "1"
+      },
+      "b": {
+        "text": "A digital camera",
+        "value": "2"
+      },
+      "c": {
+        "text": "Smartphone",
+        "value": "3"
+      },
+      "d": {
+        "text": "Mouse",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Using technology such as the internet and cell phones to deliberately upset someone is called",
+    "questionNo": 19,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Cyberbully",
+        "value": "1"
+      },
+      "b": {
+        "text": "Bystander",
+        "value": "2"
+      },
+      "c": {
+        "text": "Upstander",
+        "value": "3"
+      },
+      "d": {
+        "text": "Community",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which two companies listed below are both owned by Facebook?",
+    "questionNo": 20,
+    "questionReference": "t2",
+    "answers": {
+      "a": {
+        "text": "Twitter and Instagram",
+        "value": "1"
+      },
+      "b": {
+        "text": "Snapchat and WhatsApp",
+        "value": "2"
+      },
+      "c": {
+        "text": "WhatsApp and Instagram",
+        "value": "3"
+      },
+      "d": {
+        "text": "Twitter and snapchat",
+        "value": "4"
+      },
+      "e": {
+        "text": "None of the above",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Microsoft Excel is what type of software?",
+    "questionNo": 21,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Word Processing",
+        "value": "1"
+      },
+      "b": {
+        "text": "Spreadsheet",
+        "value": "2"
+      },
+      "c": {
+        "text": "Presentation",
+        "value": "3"
+      },
+      "d": {
+        "text": "Drawing",
+        "value": "4"
+      },
+      "e": {
+        "text": "Database",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which of the following is the default browser for Windows 10?",
+    "questionNo": 22,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Firefox",
+        "value": "1"
+      },
+      "b": {
+        "text": "Edge",
+        "value": "2"
+      },
+      "c": {
+        "text": "Chrome",
+        "value": "3"
+      },
+      "d": {
+        "text": "Internet Explorer",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "How do you add a new slide in Microsoft PowerPoint?",
+    "questionNo": 23,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "File, New",
+        "value": "1"
+      },
+      "b": {
+        "text": "Insert, New Slide",
+        "value": "Insert, New Slide"
+      },
+      "c": {
+        "text": "File, Newslide",
+        "value": "3"
+      },
+      "d": {
+        "text": "Slide Show, New",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "A graphic artist would use",
+    "questionNo": 24,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Accounting Software",
+        "value": "1"
+      },
+      "b": {
+        "text": "Word Processing Application",
+        "value": "2"
+      },
+      "c": {
+        "text": "Graphics Presentation Software",
+        "value": "3"
+      },
+      "d": {
+        "text": "Antivirus Software",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Backing up of computer data is the process of:",
+    "questionNo": 25,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Reversing the files stored on the hard drive",
+        "value": "1"
+      },
+      "b": {
+        "text": "Putting your computer in the back of the room",
+        "value": "2"
+      },
+      "c": {
+        "text": "Storing an extra copy of data on the hard disk",
+        "value": "3"
+      },
+      "d": {
+        "text": "Storing an extra copy on an external storage device",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Electronic mail is best used to",
+    "questionNo": 26,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Send and Receive messages over a network",
+        "value": "1"
+      },
+      "b": {
+        "text": "Send and Receive messages via the Internet",
+        "value": "2"
+      },
+      "c": {
+        "text": "Send and Receive messages via radio waves",
+        "value": "3"
+      },
+      "d": {
+        "text": "A and B",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Mouse-pad is an input device for a computer.",
+    "questionNo": 27,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "TRUE",
+        "value": "1"
+      },
+      "b": {
+        "text": "FALSE",
+        "value": "2"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "There is no desktop version for Viber application.",
+    "questionNo": 28,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "TRUE",
+        "value": "1"
+      },
+      "b": {
+        "text": "FALSE",
+        "value": "2"
+      },
+      "c": {
+        "text": "",
+        "value": null
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Things such as letters, words and sounds are called:",
+    "questionNo": 29,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Commands",
+        "value": "1"
+      },
+      "b": {
+        "text": "Data",
+        "value": "2"
+      },
+      "c": {
+        "text": "User Response",
+        "value": "3"
+      },
+      "d": {
+        "text": "Programs",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Software development is most often done by:",
+    "questionNo": 30,
+    "questionReference": "t3",
+    "answers": {
+      "a": {
+        "text": "Analyst",
+        "value": "1"
+      },
+      "b": {
+        "text": "Programmer",
+        "value": "2"
+      },
+      "c": {
+        "text": "End User",
+        "value": "3"
+      },
+      "d": {
+        "text": "None of the Above",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "You are writing a message on twitter, which is the maximum number of characters you can use?",
+    "questionNo": 31,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "120",
+        "value": "1"
+      },
+      "b": {
+        "text": "140",
+        "value": "2"
+      },
+      "c": {
+        "text": "240",
+        "value": "3"
+      },
+      "d": {
+        "text": "280",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "If a website uses cookies, it means that the site…",
+    "questionNo": 32,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Can see the content of all the files on the device you are using",
+        "value": "1"
+      },
+      "b": {
+        "text": "Is not a risk to infect your device with a computer virus",
+        "value": "2"
+      },
+      "c": {
+        "text": "Will automatically prompt you to update your web browser software if it is out of date",
+        "value": "3"
+      },
+      "d": {
+        "text": "Can track your visits and activity on the site",
+        "value": "4"
+      },
+      "e": {
+        "text": "Not sure",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which of the following is the largest source of revenue for most major social media platforms?",
+    "questionNo": 33,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Exclusive licensing deals with internet service providers and cellphone manufactures",
+        "value": "1"
+      },
+      "b": {
+        "text": "Allowing companies to purchase advertisements on their platforms",
+        "value": "2"
+      },
+      "c": {
+        "text": "Hosting conferences for social media influencers",
+        "value": "3"
+      },
+      "d": {
+        "text": "Providing consulting services to corporate clients",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "2"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "When a website has a privacy policy, it means that the site….",
+    "questionNo": 34,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Has created a contract between itself and its users about how it will use their data",
+        "value": "1"
+      },
+      "b": {
+        "text": "Will not share users' personal information with third parties",
+        "value": "2"
+      },
+      "c": {
+        "text": "Adheres to federal guidelines about deceptive advertising practices",
+        "value": "3"
+      },
+      "d": {
+        "text": "Does not retain any personally identifying information about its users",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "What does it mean when a website has \"http:// at the beginning of its URL, as opposed to http://without the \"s\" ?",
+    "questionNo": 35,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Information entered into the site is not encrypted",
+        "value": "1"
+      },
+      "b": {
+        "text": "The content on the site is safe for children",
+        "value": "2"
+      },
+      "c": {
+        "text": "The site is only accessible to people in certain countries",
+        "value": "3"
+      },
+      "d": {
+        "text": "The site has been verified as trustworthy",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "The term \"net neutrality\" describes the principle that",
+    "questionNo": 36,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Internet service providers should treat all traffic on their networks equally",
+        "value": "1"
+      },
+      "b": {
+        "text": "Social media platforms must give visibility to conservative and liberal points of view",
+        "value": "2"
+      },
+      "c": {
+        "text": "Online advertisers cannot post ads for housing or jobs that are only visible to people of a certain race",
+        "value": "3"
+      },
+      "d": {
+        "text": "The government cannot censor online speech",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "1"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "At which URL can Internet users access videos created by federal agencies?",
+    "questionNo": 37,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "www.whitehouse.gov",
+        "value": "1"
+      },
+      "b": {
+        "text": "data.gov",
+        "value": "2"
+      },
+      "c": {
+        "text": "mygovernment.mov",
+        "value": "3"
+      },
+      "d": {
+        "text": "youtube.com/USGovernment",
+        "value": "4"
+      },
+      "e": {
+        "text": "gsa.gov/NewMedia",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Which is google plus?",
+    "questionNo": 38,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "A new type of calculator that harnesses the brains of all Google’s boffins so you can work out really big sums.",
+        "value": "1"
+      },
+      "b": {
+        "text": "It’s just like the regular Google, only with more stuff.",
+        "value": "2"
+      },
+      "c": {
+        "text": "A social network that allows you to share pictures, links and thoughts with specific ‘circles’ of people.",
+        "value": "3"
+      },
+      "d": {
+        "text": "",
+        "value": null
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "Who can edit articles on Wikipedia, the free, online encyclopedia?",
+    "questionNo": 39,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Registered users older than 13",
+        "value": "1"
+      },
+      "b": {
+        "text": "Employees of Wikipedia",
+        "value": "2"
+      },
+      "c": {
+        "text": "College professors and students",
+        "value": "3"
+      },
+      "d": {
+        "text": "All of the above You only need to create an account.",
+        "value": "4"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "4"
+  },
+  {
+    "name": "digitalLiteracy",
+    "lang": "en",
+    "questionText": "You have created a PowerPoint presentation that you want to embed on a web page.  A site that enables you to do that is?",
+    "questionNo": 40,
+    "questionReference": "t4",
+    "answers": {
+      "a": {
+        "text": "Youtube",
+        "value": "1"
+      },
+      "b": {
+        "text": "Vimeo",
+        "value": "2"
+      },
+      "c": {
+        "text": "Slideshare",
+        "value": "3"
+      },
+      "d": {
+        "text": "Soundslide",
+        "value": "4"
+      },
+      "e": {
+        "text": "PPTme",
+        "value": 5
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "3"
+  },
+  {
+    "name": "skillQuiz",
+    "lang": "en",
+    "questionText": "Select the line of code that completes the function\n //function retuens index of first matching\n //element in an array\n function firstIndexOfElementInArray(element, array) {\n  let result = -1\n  for (let i = 0; i < array.length; i++) {\n  // MISSING CODE\n  }\n  return result\n }",
+    "questionNo": null,
+    "questionReference": "EC32D5B5, CF996AEA",
+    "answers": {
+      "a": {
+        "text": "i += 1",
+        "value": "a"
+      },
+      "b": {
+        "text": "if (array[i] === element) {\n  return i\n  }",
+        "value": "b"
+      },
+      "c": {
+        "text": "return array[i] === element",
+        "value": "c"
+      },
+      "d": {
+        "text": "if (array[i] === element) {\n  return i + 1\n  }",
+        "value": "d"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "name": "skillQuiz",
+    "lang": "en",
+    "questionText": "Select the line of code that complete the function\n function map(array, method) {\n  let resultArray = []\n  array.forEach(element => {\n  //Call the method on the object\n  const value = method(element)\n  // MISSING LINE\n  })\n  return resultArray\n }",
+    "questionNo": null,
+    "questionReference": "EC32D5B5, CF996AEA",
+    "answers": {
+      "a": {
+        "text": "resultArray.push(value)",
+        "value": "a"
+      },
+      "b": {
+        "text": "value.push(array)",
+        "value": "b"
+      },
+      "c": {
+        "text": "method(value)",
+        "value": "c"
+      },
+      "d": {
+        "text": "return value",
+        "value": "d"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "name": "skillQuiz",
+    "lang": "en",
+    "questionText": "What is the value of the variable after the following code runs?\n \n let x = ['1', '2', '15', '-7', '300']\n let y = x.sort()",
+    "questionNo": null,
+    "questionReference": "EC32D5B5, CF996AEA",
+    "answers": {
+      "a": {
+        "text": "['1', '2', '15', '-7', '300']",
+        "value": "a"
+      },
+      "b": {
+        "text": "['-7', '1', '2', '15', '300']",
+        "value": "b"
+      },
+      "c": {
+        "text": "['1', '15', '2', '-7', '300']",
+        "value": "c"
+      },
+      "d": {
+        "text": "['-7', '1', '15', '2', '300']",
+        "value": "d"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "name": "skillQuiz",
+    "lang": "en",
+    "questionText": "What kind of SQL statement retrieve data from a table?",
+    "questionNo": null,
+    "questionReference": "640CCFB2, E5FD3F8F",
+    "answers": {
+      "a": {
+        "text": "FETCH",
+        "value": "a"
+      },
+      "b": {
+        "text": "SELECT",
+        "value": "b"
+      },
+      "c": {
+        "text": "LOOKUP",
+        "value": "c"
+      },
+      "d": {
+        "text": "READ",
+        "value": "d"
+      },
+      "e": {
+        "text": "",
+        "value": null
+      },
+      "f": {
+        "text": "",
+        "value": null
+      }
+    },
+    "correctAnswer": "b"
+  }
+]
